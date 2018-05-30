@@ -1,0 +1,76 @@
+li{	color:#f2f7f7;
+	font-size:24px;
+	font-family: sans-serif;
+	display: block;
+	padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+    margin:0;
+}
+#company{
+    float:left;
+}
+ul {
+	background-color:#A9A9A9;
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+p {
+    font-size:80px;
+    color:yellow;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    background-color: black;
+    padding:50px;
+    
+    margin:0;
+}
+
+h10 {
+    display: block;
+    background-color: #99ff99;
+    color:#99ff99;
+    display: inline-block;
+    padding: 60px 160px;
+    margin: 15px;
+}
+
+h8 {
+    display: block;
+    background-color: #f4b942;
+    color:#f4b942;
+    display: inline-block;
+    padding: 60px 265px;
+    margin: 15px;
+}
+
+#elephant {
+    float:right;
+    
+    padding: 15px 30px;
+}
+h5{
+    padding-top: 60px;
+    width: 40%;
+    float: left;
+}
+div {
+    display:block;
+    font-size:24px;
+    font-family: sans-serif;
+    display:inline-block;
+    padding: 14px 16px;
+}
+h7 {
+    display: block;
+    background-color: darkblue;
+    color:darkblue;
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+    margin: 0;
+}
